@@ -1,0 +1,17 @@
+.container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 25% 25%;
+}
+.col{
+    height: 300px;
+}
+.col1{
+    background: url("https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg") center / cover;
+}
+.col3{
+    background: url("https://www.acouplecooks.com/wp-content/uploads/2020/12/Honey-Garlic-Shrimp-026.jpg") center / cover;
+}
+.block1{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWAWQskMeUdjmbx_9Zasr8Hc8BAjWukoJx16wg9mGLrogTukiu6DXuZC5MvlmTU2GVmIQ&usqp=CAU") center / cover;
+}
